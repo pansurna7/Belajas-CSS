@@ -1,8 +1,15 @@
 div {
     width: 300px;
-    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;   
+}
 
-    padding-top: 10px;
+div{
+    border-style: groove;
+    border-radius: 10px;
+    border-top-width: 10px;
+    border-bottom-width:10px;
+    border-block-start-width: 10px;
+    border-color: green;
 
-    margin: 20px;
 }
