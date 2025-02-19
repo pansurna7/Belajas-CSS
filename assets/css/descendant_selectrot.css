@@ -5,3 +5,7 @@ section h1{
 section > h1{
     color: red;
 }
+
+input[type=text]{
+    color: red;
+}
