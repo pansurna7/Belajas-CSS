@@ -1,0 +1,18 @@
+body{
+    background-color: #A4B465;
+}
+h1,h2,h3{
+    color: #F1E3D3;
+    background-color: black;
+}
+
+span{
+    color: white;
+}
+#makan{
+    color: blue;
+}
+.mark{
+    background-color: aquamarine;
+}
+
