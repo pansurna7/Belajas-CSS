@@ -1,6 +1,7 @@
 div {
     width: 400px;   
-    margin: 20px;   
+    
+    
 }
 
 div{
@@ -19,4 +20,11 @@ div{
     padding-bottom: 10px; */
 
     padding: 10px 40px;
+}
+
+div{
+    margin-top: 50px;
+    margin-right: 50px ;
+    margin-bottom: 50px;
+    margin-left: 50px;
 }
