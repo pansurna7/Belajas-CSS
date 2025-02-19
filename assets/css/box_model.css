@@ -1,6 +1,5 @@
 div {
-    width: 300px;
-    padding: 50px;
+    width: 400px;   
     margin: 20px;   
 }
 
@@ -12,4 +11,12 @@ div{
     border-block-start-width: 10px;
     border-color: green;
 
+}
+div{
+    /* padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px; */
+
+    padding: 10px 40px;
 }
